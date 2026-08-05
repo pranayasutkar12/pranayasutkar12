@@ -1,89 +1,18 @@
-# Hi there 👋, I'm Pranay Asutkar
+# 💫 About Me:
+🔹 Salesforce Developer with 3+ years of experience<br>🔹 Platform Developer I Certified<br>🔹 Triple Star Ranger<br>🔹 Passionate about Apex, LWC, Flows & Integrations<br>🔹 Currently building real-world Salesforce solutions<br>🔹 Learning Agentforce & AI in Salesforce
 
-## Salesforce Developer | Platform Developer I Certified
 
-💼 Salesforce Developer with 3+ years of experience in designing and developing scalable CRM solutions.
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranayasutkarsfdc27@gmail.com) 
 
----
-
-## 🚀 About Me
-
-- 🔹 Salesforce Platform Developer I Certified
-- ⭐ Trailhead Triple Star Ranger
-- 💻 Salesforce Developer
-- ⚡ Passionate about Apex, LWC, and Salesforce Integrations
-- 🌱 Currently learning Agentforce, AI, and advanced Salesforce development
+# 💻 Tech Stack:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pranayasutkar12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pranayasutkar12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranayasutkar12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=pranayasutkar12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-- Salesforce
-- Apex
-- Lightning Web Components (LWC)
-- SOQL & SOSL
-- Flows
-- REST & SOAP APIs
-- Batch Apex
-- Queueable Apex
-- JavaScript
-- HTML
-- CSS
-- Git & GitHub
-- VS Code
-
----
-
-## ☁️ Salesforce Clouds
-
-- Sales Cloud
-- Service Cloud
-
----
-
-## 📌 Featured Projects
-
-### Loan Management System
-- Loan Application
-- Document Verification
-- Approval Process
-- Apex
-- LWC
-- REST API Integration
-
-### CRM Automation
-- Lead Assignment
-- Opportunity Automation
-- Approval Workflows
-- Salesforce Flows
-
-### Salesforce Portfolio Website
-- React
-- Vite
-- GitHub Pages
-
----
-
-## 🏆 Certifications
-
-✅ Salesforce Platform Developer I
-
-⭐ Trailhead Triple Star Ranger
-
----
-
-## 📊 GitHub Stats
-
-> GitHub automatically shows your repositories and contribution graph below this profile.
-
----
-
-## 📫 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/pranay-asutkar-0403141b6/
-- Trailhead: https://www.salesforce.com/trailblazer/pasutkar
-- Email: pranayasutkarsfdc27@gmail.com
-
----
-
-⭐ Thank you for visiting my profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
