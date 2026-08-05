@@ -81,9 +81,11 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- Trailhead: https://trailhead.salesforce.com/
+- LinkedIn: https://www.linkedin.com/in/pranay-asutkar-0403141b6/
+- Trailhead: https://www.salesforce.com/trailblazer/pasutkar
 - GitHub: https://github.com/pranayasutkar12
+- Email: pranayasutkarsfdc27@gmail.com
+
 
 ---
 
