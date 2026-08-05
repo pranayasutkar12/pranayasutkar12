@@ -37,9 +37,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranayasutkar12&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranayasutkar12&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayasutkar12&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayasutkar12&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pranayasutkar12&theme=tokyonight)
 
