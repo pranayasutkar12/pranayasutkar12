@@ -30,15 +30,16 @@
 ### Salesforce
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge)
-![LWC](https://img.shields.io/badge/LWC-0176D3?style=for-the-badge)
-![Aura](https://img.shields.io/badge/Aura-00A1E0?style=for-the-badge)
 ![Flow](https://img.shields.io/badge/Flow-00A1E0?style=for-the-badge)
+![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge)
 ![Trigger](https://img.shields.io/badge/Trigger-1798c1?style=for-the-badge)
 ![Batch Apex](https://img.shields.io/badge/Batch_Apex-1798c1?style=for-the-badge)
+![LWC](https://img.shields.io/badge/LWC-0176D3?style=for-the-badge)
+![Aura](https://img.shields.io/badge/Aura-00A1E0?style=for-the-badge)
+![Integration](https://img.shields.io/badge/Integration-00A1E0?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-00A1E0?style=for-the-badge)
 ![SOAP API](https://img.shields.io/badge/SOAP_API-00A1E0?style=for-the-badge)
-![Integration](https://img.shields.io/badge/Integration-00A1E0?style=for-the-badge)
+
 
 ### Development Tools
 
@@ -47,15 +48,18 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Salesforce CLI](https://img.shields.io/badge/SFDX-00A1E0?style=for-the-badge)
 ![Change Sets](https://img.shields.io/badge/Change_Sets-00A1E0?style=for-the-badge)
+![Workbench](https://img.shields.io/badge/Workbench-0176D3?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
 
 ### Programming
 
+![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge)
-![SOSL](https://img.shields.io/badge/SOSL-00A1E0?style=for-the-badge)
 
 ---
 
@@ -69,14 +73,6 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=pranayasutkar12&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranayasutkar12&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -106,7 +102,7 @@
 
 🏆 Salesforce Platform Developer I
 
-⭐ Salesforce Triple Star Ranger
+⭐⭐⭐ Triple Star Ranger
 
 ---
 
@@ -125,9 +121,9 @@
 
 💻 **GitHub:** https://github.com/pranayasutkar12
 
-💼 **LinkedIn:** *(Add your LinkedIn profile URL here)*
+💼 **LinkedIn:** https://www.linkedin.com/in/pranay-asutkar-0403141b6/
 
-🌟 **Trailhead:** *(Add your Trailhead profile URL here)*
+🌟 **Trailhead:** https://www.salesforce.com/trailblazer/pasutkar
 
 ---
 
