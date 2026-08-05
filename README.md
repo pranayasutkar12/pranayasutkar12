@@ -25,6 +25,43 @@
 
 ---
 
+# 💼 Professional Experience
+
+## Salesforce Developer | Bit Hub Technology
+📍 Pune, Maharashtra (Remote) | **Dec 2023 – Present**
+
+- Developed scalable business solutions using **Apex Classes, Triggers, Batch Apex, Queueable Apex, and Scheduled Apex**.
+- Built responsive and reusable **Lightning Web Components (LWC)** and **Aura Components**.
+- Customized Salesforce by creating **Objects, Fields, Validation Rules, Record Types, Page Layouts, and Flows**.
+- Implemented business automation using **Salesforce Flow, Approval Processes, and Process Builder**.
+- Integrated Salesforce with external systems using **REST and SOAP APIs**.
+- Managed **Profiles, Roles, Permission Sets, Sharing Rules, and Security**.
+- Participated in **Agile development**, sprint planning, code reviews, testing, and production releases.
+- Streamlined deployments using **Git, Change Sets, Salesforce CLI (SFDX), and CI/CD pipelines**.
+
+---
+
+## Salesforce Developer Trainee | CloudMetic Solutions
+📍 Noida, Uttar Pradesh (Remote) | **May 2023 – Nov 2023**
+
+- Customized Salesforce by creating and modifying **Custom Objects, Fields, Page Layouts, and Relationships**.
+- Developed and enhanced **Apex Classes, Triggers, Test Classes, and Lightning Web Components (LWC)**.
+- Built business automation using **Salesforce Flow** and **Process Builder**.
+- Assisted in deployments using **Change Sets** and supported testing activities.
+- Collaborated with senior developers to deliver scalable Salesforce solutions.
+
+---
+
+## Salesforce Developer & Administrator (Internship + Projects) | Crescentweb Technology
+📍 Nagpur, Maharashtra | **Jul 2022 – May 2023**
+
+- Gained hands-on experience in **Salesforce Development and Administration**.
+- Developed **Custom Objects, Apex Triggers, Workflows, Validation Rules, and Automation**.
+- Managed **Users, Profiles, Roles, Permission Sets, and Security Settings**.
+- Performed **Data Import/Export** and maintained Salesforce data quality.
+- Supported project development, testing, debugging, and deployment activities.
+---
+
 # 🛠️ Tech Stack
 
 ### Salesforce
