@@ -22,6 +22,7 @@
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge)
+![Trigger](https://img.shields.io/badge/Trigger-1798c1?style=for-the-badge)
 ![LWC](https://img.shields.io/badge/LWC-0176D3?style=for-the-badge)
 ![Flow](https://img.shields.io/badge/Flow-00A1E0?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
