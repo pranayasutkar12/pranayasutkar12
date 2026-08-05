@@ -1,18 +1,90 @@
-# 💫 About Me:
-🔹 Salesforce Developer with 3+ years of experience<br>🔹 Platform Developer I Certified<br>🔹 Triple Star Ranger<br>🔹 Passionate about Apex, LWC, Flows & Integrations<br>🔹 Currently building real-world Salesforce solutions<br>🔹 Learning Agentforce & AI in Salesforce
+# Hi 👋, I'm Pranay Asutkar
 
+### Salesforce Developer | 3+ Years Experience | Platform Developer I Certified | Triple Star Ranger
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranayasutkarsfdc27@gmail.com) 
-
-# 💻 Tech Stack:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pranayasutkar12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=pranayasutkar12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranayasutkar12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Passionate about building scalable Salesforce solutions using Apex, Lightning Web Components (LWC), Flows, and Integrations.
 
 ---
-[![](https://komarev.com/ghpvc/?username=pranayasutkar12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 💼 Salesforce Developer with 3+ years of experience
+- 🏆 Salesforce Platform Developer I Certified
+- ⭐ Salesforce Triple Star Ranger
+- 🔭 Currently working on Salesforce projects using Apex, LWC, Flows & REST APIs
+- 🌱 Learning Agentforce, AI in Salesforce, and advanced design patterns
+- 💬 Ask me about Apex, LWC, SOQL, Triggers, Flows, Integrations
+- 📫 Reach me on LinkedIn
+
+---
+
+## 🛠️ Tech Stack
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge)
+![LWC](https://img.shields.io/badge/LWC-0176D3?style=for-the-badge)
+![Flow](https://img.shields.io/badge/Flow-00A1E0?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Stats
+
+![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranayasutkar12&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayasutkar12&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pranayasutkar12&theme=tokyonight)
+
+---
+
+## 🏆 Certifications
+
+- Salesforce Platform Developer I
+- Salesforce Triple Star Ranger
+
+---
+
+## 🚀 Featured Skills
+
+- Apex
+- Lightning Web Components (LWC)
+- Salesforce Flow
+- Triggers
+- SOQL & SOSL
+- REST API Integration
+- Git & GitHub
+- Salesforce CLI
+- VS Code
+
+---
+
+## 🌱 Currently Learning
+
+- Agentforce
+- AI in Salesforce
+- CI/CD
+- Advanced Apex Design Patterns
+
+---
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranayasutkar12&theme=tokyo-night)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- Trailhead: https://trailhead.salesforce.com/
+- GitHub: https://github.com/pranayasutkar12
+
+---
+
+### ⭐ "Turning business requirements into scalable Salesforce solutions."
