@@ -41,7 +41,7 @@
 ![SOAP API](https://img.shields.io/badge/SOAP_API-00A1E0?style=for-the-badge)
 
 
-### Development Tools
+### Tools & Deployment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
