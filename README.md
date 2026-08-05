@@ -79,12 +79,31 @@
 
 ---
 
+```markdown
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/pranay-asutkar-0403141b6/
-- Trailhead: https://www.salesforce.com/trailblazer/pasutkar
-- GitHub: https://github.com/pranayasutkar12
-- Email: pranayasutkarsfdc27@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/pranay-asutkar-0403141b6/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.salesforce.com/trailblazer/pasutkar" target="_blank">
+    <img src="https://img.icons8.com/color/48/salesforce.png" height="45" alt="Salesforce Trailhead"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/pranayasutkar12" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:pranayasutkarsfdc27@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+  </a>
+</p>
+```
+
 
 
 ---
