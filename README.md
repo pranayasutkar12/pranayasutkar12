@@ -25,6 +25,7 @@
 ![Trigger](https://img.shields.io/badge/Trigger-1798c1?style=for-the-badge)
 ![LWC](https://img.shields.io/badge/LWC-0176D3?style=for-the-badge)
 ![Flow](https://img.shields.io/badge/Flow-00A1E0?style=for-the-badge)
+![Integration](https://img.shields.io/badge/Integration-00A1E0?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
